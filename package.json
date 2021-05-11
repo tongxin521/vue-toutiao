@@ -13,7 +13,7 @@
     "core-js": "^3.6.5",
     "dayjs": "^1.8.31",
     "json-bigint": "^1.0.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "lodash-decorators": "^6.0.1",
     "vant": "^2.9.3",
     "vue": "^2.6.11",
